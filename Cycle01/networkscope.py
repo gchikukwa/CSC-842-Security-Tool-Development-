@@ -9,7 +9,7 @@ import subprocess   #Import subprocess module
 import os           #Import os module 
 import socket       #Import socket module
 import netifaces    #Import netifaces module
-import sys
+import sys          #Import sys module 
 
 def main():
  with open(os.devnull, "wb") as subprocess.PIPE:
