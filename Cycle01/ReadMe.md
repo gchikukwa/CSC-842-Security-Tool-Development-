@@ -19,4 +19,4 @@ There are no software dependencies needed to run the script.
                           
 <h2> Usage </h2>
 
-run it : <b> python networkscope.py </b> on your CL in windows .There are no parameters passed on the CL.
+run it : <b> C:\CSC842> python networkscope.py </b> on your CL in windows .There are no parameters passed on the CL.
