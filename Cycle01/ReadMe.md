@@ -7,8 +7,8 @@ There are no software dependencies needed to run the script.
 <b>The script displays the following :</b>
 
 1. Host Computer Information : IP Address 
-                               Subnet Mask
-                               Gateway
+                               , Subnet Mask
+                               , Gateway
 2. Hosts on the Network : IP Addresses
-                          Status ( live or Inactive)
+                          , Status ( live or Inactive)
                           
