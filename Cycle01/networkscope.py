@@ -32,7 +32,7 @@ def main():
     print(" Hosts on the Network :")
     print("  ")
     
-    #Gets the IP Addresses on the network  and display if they are live or inactive
+    #Gets the IP Addresses of hosts on the network  and display if they are live hosts or inactive hosts
     for n in range(1, 20):
             ip="192.168.1.{0}".format(n)
             result=subprocess.Popen(["ping", "-n", "1", "-w", "200", ip],
