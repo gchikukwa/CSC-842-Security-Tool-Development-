@@ -34,14 +34,14 @@ def main():
     
     #Gets the IP Addresses of hosts on the network  and display if they are live hosts or inactive hosts
     for n in range(1, 20):
-            ip="192.168.1.{0}".format(n)
-            result=subprocess.Popen(["ping", "-n", "1", "-w", "200", ip],
+            ip_address ="192.168.1.{0}".format(n)
+            result=subprocess.Popen(["ping", "-n", "1", "-w", "200", ip_address],
                     stdout=subprocess.PIPE, stderr=subprocess.PIPE).wait()
             if result:
-                    print(ip,"  Inactive Host")
+                    print(ip_address,"  Inactive Host")
                     
             else:
-                    print(ip,"  live Host")
+                    print(ip_address,"  live Host")
                                          
 
 if __name__ == '__main__': main()
