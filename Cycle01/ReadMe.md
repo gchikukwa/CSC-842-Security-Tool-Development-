@@ -4,4 +4,11 @@ It is a python script that runs on a windows machine.
 
 There are no software dependencies needed to run the script.
 
-The script just display the :
+<b>The script displays the following :</b>
+
+1. Host Computer Information : IP Address 
+                               Subnet Mask
+                               Gateway
+2. Hosts on the Network : IP Addresses
+                          Status ( live or Inactive)
+                          
