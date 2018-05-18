@@ -3,7 +3,7 @@
 
 <h2>Purpose </h2>
 
-<b>This script/tool will detect the network scope of the network in which the machine that is running it is attached.</b>
+<b>TThis script/tool will detect the network scope of the network in which the machine that is running it is attached. Displays host IP address, Subnet Mask and Gateway. It also displays IP Addresses of the hosts on the network with a status(live or Inactive).</b>
 
 It is a python script that runs on a windows machine.
 
