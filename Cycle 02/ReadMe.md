@@ -11,5 +11,5 @@ the server.
 displayed on the server side.
 
 <h2>Technical Spefications</h2>
-* Python 3 and above 
+* Python 3 and above <br>
 * Linux Platform 
