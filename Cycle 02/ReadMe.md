@@ -16,6 +16,6 @@ displayed on the server side.
 <h3>Instructions</h3>
 * This tool was programmed using python 3.5 on a linux machine. <br>
 * It will not run on a windows machine <br>
-* You have to run the server first followed by the client(since the client connects to the server)  <br>
-<font color="blue"> $python server.py </font>  <br>
-<font color="blue">$python client.py </font>
+* You have to run the server first followed by the client(since the client connects to the server)  <br><br>
+<b> $python server.py </b>  <br><br>
+<b>$python client.py </b>
