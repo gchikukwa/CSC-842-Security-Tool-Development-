@@ -9,3 +9,7 @@ the server.
 
 <b>Client</b> : The client connects to the server and receives command and executes them ,then send back the results of the command to be 
 displayed on the server side.
+
+<h2>Technical Spefications</h2>
+* Python 3 and above 
+* Linux Platform 
