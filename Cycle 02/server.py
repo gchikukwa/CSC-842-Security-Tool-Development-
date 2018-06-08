@@ -1,6 +1,9 @@
+# Gerald Chikukwa 
+#Remote Command Execution C2 Tool
+#Server Side Implementation
+
 import socket
 import sys
-
 
 # Create socket (allows two computers to connect)
 def socket_create():
