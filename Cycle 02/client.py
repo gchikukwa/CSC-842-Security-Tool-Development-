@@ -1,3 +1,7 @@
+# Gerald Chikukwa 
+#Remote Command Execution C2 Tool
+#Client Side Implementation
+
 import os
 import socket
 import subprocess
