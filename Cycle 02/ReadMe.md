@@ -20,6 +20,6 @@ displayed on the server side.
 <b> $python server.py </b>  <br><br>
 <b>$python client.py </b>
 
-<h2></h2>
+<h2>Future Direction</h2>
 
 * To encrypt the communication between client and server
