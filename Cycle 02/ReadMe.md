@@ -23,7 +23,7 @@ displayed on the server side.
 <b> $python server.py </b>  <br><br>
 <b>$python client.py </b>
 
-<h2>Future Direction</h2>
+<h3>Future Direction</h3>
 
 * To encrypt the communication between the client and server
 
