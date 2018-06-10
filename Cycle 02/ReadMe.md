@@ -25,4 +25,5 @@ displayed on the server side.
 
 <h2>Future Direction</h2>
 
-* To encrypt the communication between client and server
+* To encrypt the communication between the client and server
+
