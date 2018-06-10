@@ -19,3 +19,7 @@ displayed on the server side.
 * You have to run the server first followed by the client(since the client connects to the server)  <br><br>
 <b> $python server.py </b>  <br><br>
 <b>$python client.py </b>
+
+<h2></h2>
+
+* To encrypt the communication between client and server
