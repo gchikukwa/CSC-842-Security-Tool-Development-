@@ -11,9 +11,12 @@ the server.
 displayed on the server side.
 
 <h2>Technical Spefications</h2>
+
 *  Python 3 and above <br>
 *  Linux Platform  
+
 <h3>Instructions</h3>
+
 * This tool was programmed using python 3.5 on a linux machine. <br>
 * It will not run on a windows machine <br>
 * You have to run the server first followed by the client(since the client connects to the server)  <br><br>
