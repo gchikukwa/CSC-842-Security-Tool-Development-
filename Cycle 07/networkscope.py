@@ -1,6 +1,6 @@
 '''''''
 Gerald Chikukwa 
-
+This script detects all live hosts on a network in which the machine that is running it is attached.
 '''''
 import os
 import socket    
