@@ -14,5 +14,6 @@ def map_network(pool_size = 255)<br>
 
 <h3>Instructions</h3>
 * This script will only run on linux machines <br>
-* Run the script has following :<br>
+* Run the script has following :<br><br>
+
 $python networkscope.py 
