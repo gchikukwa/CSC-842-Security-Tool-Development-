@@ -2,7 +2,7 @@
 <h1> Cycle 10</h1>
 <h2> Purpose</h2>
 
-<b> This script gathers and displays information about a computer. It gathers and displays the following information :</b> <br>
+<b> This script gathers and displays system information about a computer. It gathers and displays the following information :</b> <br>
 
 - Operating distribution and kernel version <br>
 - Mounted file system <br>
