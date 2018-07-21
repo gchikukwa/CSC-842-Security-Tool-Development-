@@ -1,6 +1,6 @@
 '''
 Gerald Chikukwa 
-Script that gathers computer information 
+Script that gathers and displays information about a computer
 
 '''
 
